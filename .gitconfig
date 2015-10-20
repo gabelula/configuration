@@ -1,0 +1,18 @@
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[alias]
+	st = status
+	co = checkout
+[merge]
+	tool = vimdiff
+[core]
+	editor = vim
+	pager = "less -RiqMSj5"
+	autocrlf = false
+[user]
+	name = Gabriela Rodriguez
+	email = gabelula@gmail.com
+[push]
+	default = simple
