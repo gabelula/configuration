@@ -11,8 +11,5 @@
 	editor = vim
 	pager = "less -RiqMSj5"
 	autocrlf = false
-[user]
-	name = Gabriela Rodriguez
-	email = gabelula@gmail.com
 [push]
 	default = simple
